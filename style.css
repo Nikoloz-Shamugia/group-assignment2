@@ -1,0 +1,60 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header{
+    background-color: blue;
+    display: flex;
+}
+header a img{
+    margin: 20px 408px 0px 220px;
+}
+.navigation-wrapper{
+    display: flex;
+}
+.navigation-wrapper li{
+    list-style-type: none;
+    margin: 46px 43px 36px 0px ;
+}
+.navigation-wrapper a{
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 15px;
+}
+.contact-button{
+    padding: 18px 43px 18px 43px;
+    border-radius: 35px;
+    background-color: white;
+    color: rgb(4, 4, 14);
+    margin-top: 28px ;
+}
+.image-wrapper{
+    background-color: blue;
+    padding: 97px 0px 40px 220px;
+    display: flex;
+}
+.rectangle{
+    width: 547px;
+    margin: 50px 51px 0px 0px;
+}
+.rectangle2{
+    width: 700px;
+}
+.blocks{
+    display: flex;
+}
+.just-info{
+    width: 380px;
+    margin:60px 137px 717px 0px ;
+}
+.info-wrapper{
+    padding: 180px 0px 180px 220px;
+}
+.stage{
+    width: 500px;
+    margin-top: 200px;
+}
+.services{
+    margin: 0px 0px 0px 180px;
+}
